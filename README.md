@@ -45,10 +45,10 @@ PLATFORM   kali linux · docker · fastapi · github actions
 
 | Area | Tools |
 |------|-------|
-| Languages | Python · Bash · SQL |
+| Languages | Python · Bash · C++ · SQL |
 | Frameworks | FastAPI · Flask · uvicorn |
-| Infra | Docker · Linux · Debian · Raspberry Pi |
-| Blue team | usbsniff · winpe-scan · blood-web (honeypot) |
+| Infra | Arch Linux / Athena OS · Docker · Debian · Raspberry Pi |
+| Red team | usbsniff · shadowforge · blood-web (honeypot) · xecurex |
 
 </details>
 
