@@ -1,142 +1,15 @@
-<p align="center">
-  <img src="wallgithub.png" alt="nova" width="100%"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <i>silent. precise. curious.</i>
-</p>
-
-<p align="center">
-  student · developer · security-minded
-</p>
-
-<br/>
-
----
-
-<br/>
-
-## about
-
-Computer science & cybersecurity student. I spend my time between
-Python, Linux, networks, and the endless rabbit holes they open up.
-
-I care about **privacy** and build things that run **locally** —
-cutting away the noise, keeping the control. Cybersecurity and OSINT
-are where my curiosity lives; AI and local LLMs are where my time goes
-right now.
-
-<br/>
-
----
-
-<br/>
-
-## currently
-
-| building | learning | experimenting |
-|:---------|:---------|:--------------|
-| **Nova** — a privacy-first AI assistant, runs fully local | LLM architectures & local inference | Linux daily driver, dotfiles, self-hosting |
-| security tooling & pentest utilities | networking & offensive methodology | AI + cybersecurity intersections |
-
-<br/>
-
----
-
-<br/>
-
-## tech stack
-
-**languages**
-```
-python        go          C           bash        sql
-```
-
-**web**
-```
-html         css         javascript   react       node
-```
-
-**cybersecurity**
-```
-burp         wireshark   ghidra       metasploit  nmap
-```
-
-**linux**
-```
-arch         kali        docker       systemd
-```
-
-**ai / machine learning**
-```
-pytorch      llama.cpp    transformers  fastapi
-```
-
-**tools**
-```
-git          github      vs code      neovim      gh
-```
-
-<br/>
-
----
-
-<br/>
-
-## featured projects
-
-| project | what it is |
-|:--------|:-----------|
-| **Nova** | privacy-first AI assistant, runs entirely local |
-| **meridian** | C2 framework |
-| **blood-web** | honeypot |
-| **chainbreaker** | software composition analysis |
-| **xecurex** | secret scanning |
-| **usbsniff** | USB/HID traffic analysis |
-| **chronos** | sandbox |
-| **winpe-scan** | PE analysis |
-| **ebpf-keylogger** | eBPF-based keylogging research |
-
-<br/>
-
----
-
-<br/>
-
-## github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s1d9e&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&text_color=9ca3af&title_color=22d3ee&icon_color=22d3ee" alt="github stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1d9e&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&text_color=9ca3af&title_color=22d3ee" alt="top languages" height="160"/>
-</p>
-
-<br/>
-
----
-
-<br/>
-
-## current focus
-
-- building **Nova**, a local, privacy-first AI assistant
-- deepening my understanding of **networks** and **offensive security**
-- learning **LLM internals** and local inference at scale
-- growing a portfolio of open-source security tooling
-
-<br/>
-
----
-
-<br/>
-
-<p align="center">
-  <code>intent over noise.</code>
-</p>
-
-<br/>
-
-<p align="center">
-  <sub>s1d9e · open source · privacy first</sub>
-</p>
+<h1 align="center">Hi 👋, I'm s1d9e</h1> <h3 align="center">Aspiring Offensive Security Enthusiast | Pentesting & CTFs</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Learning+ethical+hacking...;Breaking+things+to+understand+them;Nmap+%7C+Burp+Suite+%7C+Metasploit;Always+be+learning" alt="Typing SVG" /> </p>
+🛡️ About Me
+🔭 Currently learning offensive security & penetration testing, from the ground up
+🧠 Following a structured roadmap: networking fundamentals → web app security → exploitation
+🛠️ Practicing on TryHackMe, Hack The Box, and PortSwigger Web Academy
+🐧 Daily driver: Athena OS (Arch-based, security-focused distro with BlackArch tooling)
+🌱 Building a dual-boot setup to keep both my security tooling and gaming worlds close
+📫 Reach me: add your contact / LinkedIn / Discord here
+🧰 Tools & Tech
+<p align="center"> <img src="https://img.shields.io/badge/Nmap-004080?style=for-the-badge&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> </p>
+📊 GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=s1d9e&show_icons=true&theme=radical&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1d9e&layout=compact&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=s1d9e&theme=radical&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=s1d9e&theme=redical&hide_border=true" alt="Activity Graph" /> </p>
+🏆 Platforms & Progress
+<p align="center"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /> <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /> <img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=s1d9e&style=for-the-badge&color=00FF00" alt="Profile views" /> </p>
