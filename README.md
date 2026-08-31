@@ -1,45 +1,38 @@
+<!-- ============================================================
+     HERO BANNER
+     → Remplace le contenu ci-dessous par ton image "paysage
+       dark-blue avec rivière blanche au centre", puis replace le
+       texte "Welcome to s1d9e's Github" et "</>".
+     Exemple avec une image hébergée (une fois fournie) :
+       <img src="URL_DE_TA_BANNIERE" width="100%"/>
+     ============================================================ -->
+
 <div align="center">
 
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1526,50:1d4ed8,100:0b1526&height=260&section=header&text=Welcome%20to%20s1d9e's%20Github&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=%3C%2F%3E&descSize=22&descAlignY=60&animation=fadeIn" width="100%"/>
 
-
-        ███████╗ ██████╗ ██████╗ ███████╗
-        ██╔════╝██╔═══██╗██╔══██╗██╔════╝
-        ███████╗██║   ██║██████╔╝█████╗  
-        ╚════██║██║   ██║██╔═══╝ ██╔══╝  
-        ███████║╚██████╔╝██║     ███████╗
-        ╚══════╝ ╚═════╝ ╚═╝     ╚══════╝
-
-              ██╗  ██╗ ██████╗ ███████╗██████╗ 
-              ██║  ██║██╔═══██╗██╔════╝██╔══██╗
-              ███████║██║   ██║█████╗  ██║  ██║
-              ██╔══██║██║   ██║██╔══╝  ██║  ██║
-              ██║  ██║╚██████╔╝███████╗██████╔╝
-              ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═════╝ 
-
-```
+<!-- ⬇️ EMPLACEMENT BANNIÈRE PERSONNALISÉE (paysage + rivière) ⬇️
+  <img src="URL_DE_TA_BANNIERE" width="100%"/>
+-->
 
 <br/>
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                              ▓
-▓   ░██████╗░░█████╗░██████╗░██╗███████╗░█████╗░  ▓
-▓   ██╔════╝░██╔══██╗██╔══██╗██║██╔════╝██╔══██╗  ▓
-▓   ██║░░░░░░███████║██████╔╝██║█████╗░░██║░░██║  ▓
-▓   ██║░░░░░░██╔══██║██╔══██╗██║██╔══╝░░██║░░██║  ▓
-▓   ╚██████╗░██║░░██║██║░░██║██║███████╗╚█████╔╝  ▓
-▓   ░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚══════╝░╚════╝░  ▓
-▓                                              ▓
-▓         everyone smiles at you.              ▓
-▓         nobody sees you smile back.          ▓
-▓                                              ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+</div>
+
+---
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=2800&pause=900&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=130&lines=%24+whoami+--show-all;RED+TEAM+%2F+OFFENSIVE+ENGINEER;%24+./deploy_chaos.sh;BREAK+DEFEND+REPEAT;%24+cat+~%2F.plan;THE+SILENCE+IS+PART+OF+THE+SHOW)](https://git.io/typing-svg)
+<!-- ============================================================
+     SOCIAL LINKS
+     ============================================================ -->
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s1d9e)
+[![Gmail](https://img.shields.io/badge/Gmail-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s1d9e@proton.me)
+[![GitHub](https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s1d9e)
+[![Discord](https://img.shields.io/badge/Discord-0ea5e9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 </div>
 
@@ -49,32 +42,38 @@
 
 <br/>
 
+<!-- ============================================================
+     TECHNOLOGIES
+     ============================================================ -->
+
 <div align="center">
 
-### `$ whoami`
+## ⚙ Technologies
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   R O L E S                                                  │
-│   ──────                                                     │
-│   • Security Researcher                                      │
-│   • Red Team Engineer                                        │
-│   • Offensive Tooling Developer                              │
-│   • OSINT / Phantom Enthusiast                               │
-│                                                              │
-│   M O T T O                                                  │
-│   ──────                                                     │
-│   "I break systems so the real threats      "                │
-│    find nothing but broken glass.          "                 │
-│    Every smile hides a zero-day.           "                 │
-│                                                              │
-│   S T A T U S                                                │
-│   ────────                                                   │
-│   ▸ Build 🔴  ▸ Hunt 🔴  ▸ Defend 🔴                         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+---
+
+<br/>
+
+[![Linux](https://img.shields.io/badge/Linux-1e293b?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Git](https://img.shields.io/badge/Git-0ea5e9?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Python](https://img.shields.io/badge/Python-0ea5e9?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
+
+<br/>
+
+[![HTML5](https://img.shields.io/badge/HTML5-0ea5e9?style=for-the-badge&logo=html5&logoColor=white)]
+[![CSS3](https://img.shields.io/badge/CSS3-1e293b?style=for-the-badge&logo=css3&logoColor=white)]
+[![React](https://img.shields.io/badge/React-0ea5e9?style=for-the-badge&logo=react&logoColor=white)]
+[![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=for-the-badge&logo=nodemon&logoColor=white)]
+[![SQL](https://img.shields.io/badge/SQL-0ea5e9?style=for-the-badge&logo=postgresql&logoColor=white)]
+
+<br/>
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e293b?style=for-the-badge&logo=postgresql&logoColor=white)]
+[![MySQL](https://img.shields.io/badge/MySQL-0ea5e9?style=for-the-badge&logo=mysql&logoColor=white)]
+[![Docker](https://img.shields.io/badge/Docker-1e293b?style=for-the-badge&logo=docker&logoColor=white)]
+[![VS Code](https://img.shields.io/badge/VS%20Code-0ea5e9?style=for-the-badge&logo=visualstudiocode&logoColor=white)]
 
 </div>
 
@@ -82,48 +81,77 @@
 
 ---
 
-### ◤ TIMELINE — WHAT I DO
+<br/>
+
+<!-- ============================================================
+     STATISTICS
+     ============================================================ -->
+
+<div align="center">
+
+## ⚙ Statistics
+
+---
+
+<br/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s1d9e&show_icons=true&theme=transparent&bg_color=000000&text_color=ffffff&title_color=0ea5e9&icon_color=0ea5e9&border_color=1e293b&hide_border=true)](https://github.com/s1d9e)
+
+<br/>
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=s1d9e&bg_color=000000&color=ffffff&line=0ea5e9&point=ffffff&area=true&area_color=1d4ed8&hide_border=true&title_color=0ea5e9)](https://github.com/s1d9e)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1d9e&layout=compact&theme=transparent&bg_color=000000&text_color=ffffff&title_color=0ea5e9&hide_border=true)](https://github.com/s1d9e)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ============================================================
+     ABOUT ME
+     ============================================================ -->
+
+<div align="center">
+
+## ⚙ About Me
+
+---
+
+<br/>
+
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-#### ▉ OFFENSIVE — THE BREAK
-```
-├── Web Application Pentest
-│   ├── OWASP Top 10 · API Security
-│   ├── SQLi · XSS · SSRF · AUTH BYPASS
-│   └── Logic Flaws & WAF Evasion
-├── Red Team Operations
-│   ├── C2 Framework Development
-│   ├── Custom Implant Design
-│   └── Evasion & Lateral Movement
-└── Binary & Malware Analysis
-    ├── PE Analysis · Reverse Engineering
-    ├── Dynamic Sandboxing
-    └── Memory Forensics
-```
+<td width="35%" align="center" valign="top">
+
+<!-- ⬇️ EMPLACEMENT AVATAR CARTOON (cheveux noirs, lunettes, hoodie) ⬇️
+  <img src="URL_DE_TON_AVATAR" width="220" height="220" alt="avatar"/>
+-->
+
+<img src="https://avatars.githubusercontent.com/u/0" width="220" height="220" alt="avatar placeholder" style="border-radius:50%; border:2px solid #0ea5e9;"/>
 
 </td>
-<td width="50%" valign="top">
 
-#### ▉ DEFENSIVE — THE SHIELD
-```
-├── Detection Engineering
-│   ├── Sigma Rules · YARA Patterns
-│   ├── Log Analysis · SIEM
-│   └── Threat Hunting
-├── Infrastructure Hardening
-│   ├── Secret Scanning · CI/CD Security
-│   ├── Container Hardening
-│   └── Network Monitoring
-└── Digital Forensics
-    ├── USB/HID Traffic Analysis
-    ├── Disk Imaging · Memory Dumps
-    └── Incident Response
-```
+<td width="65%" align="left" valign="middle">
+
+I'm **s1d9e**, a cybersecurity and informatics student and developer.
+
+My day-to-day revolves around **programming** and **cybersecurity**, with a strong interest in **networking** and **Linux**. I write a lot of **Python** for automation and security tooling, and I enjoy **web development** across the stack.
+
+I'm constantly **learning new technologies**, experimenting with new tools, and building **personal projects** to sharpen my skills. I believe open source is the best way to grow — and to give back.
+
+Feel free to look around, open an issue, or reach out. Collaboration is always welcome.
 
 </td>
+
 </tr>
 </table>
 
@@ -131,208 +159,73 @@
 
 ---
 
-### ▉ TECH STACK
+<br/>
+
+<!-- ============================================================
+     HOBBIES & GOALS
+     ============================================================ -->
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   LANGUAGES        TOOLS            PLATFORMS               │
-│   ─────────        ─────            ─────────               │
-│   ● Python         ● Burp Suite     ● Kali Linux            │
-│   ● Go             ● Wireshark      ● Arch Linux            │
-│   ● C              ● Ghidra         ● Docker                │
-│   ● Bash           ● Metasploit     ● Raspberry Pi          │
-│   ● SQL            ● Nmap           ● GitHub Actions        │
-│                                                             │
-│   FRAMEWORKS                                                │
-│   ─────────                                                 │
-│   ● FastAPI ● Flask ● Rich (TUI)                            │
-│   ● GoReleaser ● Cobra (Go CLI)                             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>▸ <code>cat skills.json</code></b></summary>
-
-<br/>
-
-| Domain | Expertise | Level |
-|--------|-----------|-------|
-| **Web Security** | XSS, SQLi, SSRF, CSRF, Auth Bypass, API Pentest | `████████████████████ 95%` |
-| **Red Team** | C2 Dev, Implant Design, Evasion, Lateral Movement | `█████████████████░░░ 85%` |
-| **Binary Analysis** | PE Header, Reverse Eng, Malware Analysis, DFIR | `████████████████░░░░ 80%` |
-| **Network Security** | Packet Analysis, Traffic Sniffing, MITM, FW Evasion | `█████████████████░░░ 85%` |
-| **Scripting** | Python, Bash, Go, PowerShell | `██████████████████░░ 90%` |
-| **Cloud/Infra** | Docker, CI/CD Security, Container Hardening | `█████████████░░░░░░░ 65%` |
-
-</details>
-
-<br/>
+## ⚙ Hobbies & Goals
 
 ---
 
-### ◤ SYSTEM STATUS
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=s1d9e&theme=dark&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=ffffff&dates=666666&border=000000)](https://github.com/s1d9e)
-
 <br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s1d9e&bg_color=000000&color=FF0000&line=FF0000&point=ffffff&area=true&area_color=8B0000&hide_border=true)](https://github.com/s1d9e)
-
-<br/>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s1d9e&layout=compact&bg_color=000000&color=FF0000&title_color=FF0000&border_color=2a2a2a&langs_count=8)](https://github.com/s1d9e)
 
 </div>
-
-<br/>
-
----
-
-### ▉ DEPLOYED ASSETS
 
 <table>
 <tr>
-<td width="50%" align="center">
 
-[![meridian](https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=meridian&bg_color=000000&color=FF0000&title_color=FF0000&border_color=2a2a2a&show_owner=false)](https://github.com/s1d9e/meridian)
-
-</td>
-<td width="50%" align="center">
-
-[![blood-web](https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=blood-web&bg_color=000000&color=FF0000&title_color=FF0000&border_color=2a2a2a&show_owner=false)](https://github.com/s1d9e/blood-web)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-[![chainbreaker](https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=chainbreaker&bg_color=000000&color=FF0000&title_color=FF0000&border_color=2a2a2a&show_owner=false)](https://github.com/s1d9e/chainbreaker)
-
-</td>
-<td width="50%" align="center">
-
-[![ebpf-keylogger](https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=ebpf-keylogger&bg_color=000000&color=FF0000&title_color=FF0000&border_color=2a2a2a&show_owner=false)](https://github.com/s1d9e/ebpf-keylogger)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-[![xecurex](https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=xecurex&bg_color=000000&color=FF0000&title_color=FF0000&border_color=2a2a2a&show_owner=false)](https://github.com/s1d9e/xecurex)
-
-</td>
-<td width="50%" align="center">
-
-[![usbsniff](https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=usbsniff&bg_color=000000&color=FF0000&title_color=FF0000&border_color=2a2a2a&show_owner=false)](https://github.com/s1d9e/usbsniff)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-### ◤ THE LAB — ATTACK / DEFEND MATRIX
-
-<div align="center">
-
-```
-┌─────────────────────────────┐   ┌─────────────────────────────┐
-│         ◤ ATTACK            │   │         ◤ DEFEND            │
-├─────────────────────────────┤   ├─────────────────────────────┤
-│                             │   │                             │
-│  meridian      → C2        │   │  blood-web     → Honeypot   │
-│  chainbreaker  → SCA       │   │  xecurex       → Secrets    │
-│  usbsniff      → HID       │   │  chronos       → Sandbox    │
-│  ebpf-keylogger → eBPF     │   │  winpe-scan    → PE Anlys   │
-│  promptinject  → LLM Sec   │   │  sleepy        → Anti-Track │
-│                             │   │                             │
-└─────────────────────────────┘   └─────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
----
-
-### ▉ CREDENTIALS
-
-<div align="center">
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=FF0000)](https://tryhackme.com/p/s1d9e)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=FF0000)](https://app.hackthebox.com/profile/s1d9e)
-[![PicoCTF](https://img.shields.io/badge/PicoCTF-000000?style=for-the-badge&logo=picoctf&logoColor=FF0000)](https://play.picoctf.org/)
-[![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=overthewire&logoColor=FF0000)](https://overthewire.org/)
-
-</div>
-
-<br/>
-
----
-
-### ◤ CONTRIBUTION SIGNAL
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/s1d9e/s1d9e/output/github-snake-dark.svg)
-
-</div>
-
-<br/>
-
----
-
-### ▉ ESTABLISH CONTACT
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-s1d9e-000000?style=for-the-badge&logo=github&logoColor=FF0000)](https://github.com/s1d9e)
-[![Email](https://img.shields.io/badge/EMAIL-ME-000000?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:s1d9e@proton.me)
-[![Discord](https://img.shields.io/badge/DISCORD-s1d9e-000000?style=for-the-badge&logo=discord&logoColor=FF0000)](https://discord.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000)](https://linkedin.com/in/s1d9e)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=s1d9e%2Fs1d9e&countColor=%23FF0000&style=for-the-badge&labelColor=%23000000)](https://visitorbadge.io)
-
-<br/>
+<td width="70%" valign="top">
 
 ```
 ┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│   "The quieter you become, the more you can hear."         │
-│                                                            │
-│   ▸ I don't just break systems — I rebuild them stronger.  │
-│   ▸ Every smile hides a lesson.                            │
-│   ▸ Open source is the only honest currency.               │
-│                                                            │
-│   ░░▒▒▓▓ keep smiling. they can't see the mask. ▓▓▒▒░░     │
-│                                                            │
+│                      HOBBIES                               │
+├────────────────────────────────────────────────────────────┤
+│  ▸ Studying computer science & cybersecurity               │
+│  ▸ Programming — side projects & experiments               │
+│  ▸ Cybersecurity — CTFs, labs, responsible research        │
+│  ▸ Gaming — a well-earned break between the code blocks    │
+└────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────┐
+│                       GOALS                                │
+├────────────────────────────────────────────────────────────┤
+│  ▸ Grow into a professional security / dev engineer        │
+│  ▸ Ship meaningful open-source tools                       │
+│  ▸ Keep learning: every day, one level higher              │
+│  ▸ Build a portfolio that speaks for itself                │
 └────────────────────────────────────────────────────────────┘
 ```
 
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<!-- ⬇️ EMPLACEMENT PIXEL-ART (perso style video-game) ⬇️
+  <img src="URL_DE_TON_PIXEL_ART" width="140" alt="pixel character"/>
+-->
+
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/assets/icons/Linux-Dark.svg" width="140" alt="pixel placeholder"/>
+
+</td>
+
+</tr>
+</table>
+
 <br/>
 
-```
-░ ░ ░ ░ ▀▄─▀▄─▀▄─▀▄─ SIGNAL LOST ▄▀─▄▀─▄▀─▄▀ ░ ░ ░ ░
-```
+---
+
+<br/>
+
+<div align="center">
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=s1d9e%2Fs1d9e&countColor=%230ea5e9&style=for-the-badge&labelColor=%23000000)](https://visitorbadge.io)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:0b1526,100:0b1526&height=120&section=footer" width="100%"/>
 
 </div>
