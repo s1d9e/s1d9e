@@ -80,19 +80,23 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/s1d9e/meridian"><img src="https://img.shields.io/badge/meridian-C2-58a6ff?style=for-the-badge&labelColor=0d1117"/></a>
+  <a href="https://github.com/s1d9e/blood-web"><img src="https://img.shields.io/badge/blood--web-honeypot-58a6ff?style=for-the-badge&labelColor=0d1117"/></a>
+  <a href="https://github.com/s1d9e/chainbreaker"><img src="https://img.shields.io/badge/chainbreaker-SCA-58a6ff?style=for-the-badge&labelColor=0d1117"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/s1d9e/ebpf-keylogger"><img src="https://img.shields.io/badge/ebpf--keylogger-eBPF-58a6ff?style=for-the-badge&labelColor=0d1117"/></a>
+  <a href="https://github.com/s1d9e/xecurex"><img src="https://img.shields.io/badge/xecurex-secrets-58a6ff?style=for-the-badge&labelColor=0d1117"/></a>
+  <a href="https://github.com/s1d9e/usbsniff"><img src="https://img.shields.io/badge/usbsniff-USB%2FHID-58a6ff?style=for-the-badge&labelColor=0d1117"/></a>
+</p>
+
+<!--
+  Cartes de projets GitHub (github-readme-stats) retirées temporairement :
+  le service github-readme-stats.vercel.app était en panne (HTTP 503).
+  Réintègre-les quand il sera fiable :
   <a href="https://github.com/s1d9e/meridian"><img src="https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=meridian&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff"/></a>
-  <a href="https://github.com/s1d9e/blood-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=blood-web&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/s1d9e/chainbreaker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=chainbreaker&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff"/></a>
-  <a href="https://github.com/s1d9e/ebpf-keylogger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=ebpf-keylogger&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/s1d9e/xecurex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=xecurex&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff"/></a>
-  <a href="https://github.com/s1d9e/usbsniff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=usbsniff&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff"/></a>
-</p>
+-->
 
 <hr/>
 
@@ -111,17 +115,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s1d9e&show_icons=true&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1d9e&layout=compact&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=s1d9e&theme=transparent&hide_border=true&sideLabels=8b949e&currStreakLabel=58a6ff&fire=58a6ff&ring=58a6ff" alt="github streak" height="170"/>
 </p>
 
-<p align="center">
+<!--
+  Stats GitHub / graph d'activité retirés temporairement :
+  - github-readme-stats (github-readme-stats.vercel.app) était en panne (HTTP 503)
+  - github-readme-activity-graph (github-readme-activity-graph.vercel.app) est devenu payant (HTTP 402)
+
+  Réintègre-les quand les services seront de nouveau fiables :
+  <img src="https://github-readme-stats.vercel.app/api?username=s1d9e&show_icons=true&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1d9e&layout=compact&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff" height="170"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=s1d9e&bg_color=00000000&color=8b949e&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="activity graph" width="92%"/>
-</p>
+-->
 
 <br/>
 
