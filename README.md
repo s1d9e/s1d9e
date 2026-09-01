@@ -7,7 +7,16 @@
 </p>
 
 <p align="center">
-  <sub>building Nova · a privacy-first assistant that runs fully local</sub>
+  <sub>building <b>Nova</b> · a privacy-first assistant that runs fully local</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/s1d9e"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:s1d9e@proton.me"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/s1d9e"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 <hr/>
@@ -34,31 +43,34 @@
 </p>
 
 <p align="center">
-  <sub>languages</sub>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff"/></a>
+  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=58a6ff"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=58a6ff"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=58a6ff"/></a>
 </p>
 
 <p align="center">
-  Python &nbsp;&middot;&nbsp; Go &nbsp;&middot;&nbsp; C &nbsp;&middot;&nbsp; Bash &nbsp;&middot;&nbsp; SQL
+  <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=58a6ff"/></a>
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=58a6ff"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=58a6ff"/></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=58a6ff"/></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=58a6ff"/></a>
 </p>
 
 <p align="center">
-  <sub>web</sub>
+  <a href="https://linux.org/"><img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=58a6ff"/></a>
+  <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch-0d1117?style=for-the-badge&logo=archlinux&logoColor=58a6ff"/></a>
+  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali-0d1117?style=for-the-badge&logo=kalilinux&logoColor=58a6ff"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=58a6ff"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58a6ff"/></a>
 </p>
 
 <p align="center">
-  HTML &nbsp;&middot;&nbsp; CSS &nbsp;&middot;&nbsp; JavaScript &nbsp;&middot;&nbsp; React &nbsp;&middot;&nbsp; Node
-</p>
-
-<p align="center">
-  <sub>security &amp; linux</sub>
-</p>
-
-<p align="center">
-  Burp Suite &nbsp;&middot;&nbsp; Wireshark &nbsp;&middot;&nbsp; Ghidra &nbsp;&middot;&nbsp; Metasploit &nbsp;&middot;&nbsp; Nmap
-</p>
-
-<p align="center">
-  Arch &nbsp;&middot;&nbsp; Kali &nbsp;&middot;&nbsp; Docker &nbsp;&middot;&nbsp; Systemd &nbsp;&middot;&nbsp; Git &nbsp;&middot;&nbsp; Neovim
+  <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/BurpSuite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=58a6ff"/></a>
+  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=58a6ff"/></a>
+  <a href="https://ghidra-sre.org/"><img src="https://img.shields.io/badge/Ghidra-0d1117?style=for-the-badge&logo=ghidra&logoColor=58a6ff"/></a>
+  <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=58a6ff"/></a>
+  <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=58a6ff"/></a>
 </p>
 
 <hr/>
@@ -68,21 +80,19 @@
 </p>
 
 <p align="center">
-  <b>Nova</b> &nbsp;&mdash;&nbsp; privacy-first AI assistant, runs fully local
+  <a href="https://github.com/s1d9e/meridian"><img src="https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=meridian&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff"/></a>
+  <a href="https://github.com/s1d9e/blood-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=blood-web&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff"/></a>
 </p>
 
-<table align="center">
-  <tr>
-    <td>meridian · C2</td>
-    <td>blood-web · honeypot</td>
-    <td>chainbreaker · SCA</td>
-  </tr>
-  <tr>
-    <td>xecurex · secrets</td>
-    <td>usbsniff · USB/HID</td>
-    <td>chronos · sandbox</td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/s1d9e/chainbreaker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=chainbreaker&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff"/></a>
+  <a href="https://github.com/s1d9e/ebpf-keylogger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=ebpf-keylogger&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/s1d9e/xecurex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=xecurex&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff"/></a>
+  <a href="https://github.com/s1d9e/usbsniff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=s1d9e&repo=usbsniff&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff"/></a>
+</p>
 
 <hr/>
 
@@ -96,23 +106,21 @@
 
 <hr/>
 
-<br/>
-
 <p align="center">
   <code>stats</code>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s1d9e&show_icons=true&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1d9e&layout=compact&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=s1d9e&show_icons=true&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1d9e&layout=compact&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s1d9e&theme=transparent&hide_border=true&sideLabels=8b949e&currStreakLabel=58a6ff&fire=58a6ff&ring=58a6ff" alt="github streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s1d9e&theme=transparent&hide_border=true&sideLabels=8b949e&currStreakLabel=58a6ff&fire=58a6ff&ring=58a6ff" alt="github streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s1d9e&bg_color=00000000&color=8b949e&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="activity graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s1d9e&bg_color=00000000&color=8b949e&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="activity graph" width="92%"/>
 </p>
 
 <br/>
