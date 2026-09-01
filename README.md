@@ -99,8 +99,20 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s1d9e&show_icons=true&theme=transparent&hide_border=true&text_color=8b949e&title_color=c9d1d9&icon_color=8b949e" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1d9e&layout=compact&theme=transparent&hide_border=true&text_color=8b949e&title_color=c9d1d9" height="150"/>
+  <code>stats</code>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s1d9e&show_icons=true&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1d9e&layout=compact&theme=transparent&hide_border=true&text_color=8b949e&title_color=58a6ff" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s1d9e&theme=transparent&hide_border=true&sideLabels=8b949e&currStreakLabel=58a6ff&fire=58a6ff&ring=58a6ff" alt="github streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s1d9e&bg_color=00000000&color=8b949e&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="activity graph" width="90%"/>
 </p>
 
 <br/>
