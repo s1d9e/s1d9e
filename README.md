@@ -14,8 +14,8 @@
 
 <p align="center">
   <a href="https://github.com/s1d9e"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:s1d9e@proton.me"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/s1d9e"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:xyzs1d9e@proton.me"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://guns.lol/s1d9e"><img src="https://img.shields.io/badge/guns.lol-0d1117?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
   <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
